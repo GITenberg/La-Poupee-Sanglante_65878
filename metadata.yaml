@@ -1,5 +1,8 @@
 _repo: La-Poupee-Sanglante_65878
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65878-h/images/poupee_cover.jpg
 creator:
   author:
     agent_name: Leroux, Gaston
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gaston_Leroux
     - https://fr.wikipedia.org/wiki/Gaston_Leroux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65878#La-Poupee-Sanglante
 gutenberg_issued: '2021-07-20'
 gutenberg_type: Text
 identifiers:
